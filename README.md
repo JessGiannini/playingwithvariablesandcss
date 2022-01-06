@@ -22,7 +22,7 @@
 
 ## Deployed Link
 
-* [See Live Site](https://shrouded-fortress-65513.herokuapp.com/)
+* [See Live Site](https://jessgiannini.github.io/playingwithvariablesandcss/)
 
 ## Author
 
